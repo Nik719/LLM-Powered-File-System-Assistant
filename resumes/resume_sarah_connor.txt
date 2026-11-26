@@ -1,0 +1,4 @@
+Sarah Connor
+Role: Security Analyst
+Skills: Cybersecurity, Network Forensics, Linux, Wireshark, Penetration Testing
+Strong track record in threat detection.

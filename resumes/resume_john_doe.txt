@@ -1,0 +1,4 @@
+John Doe
+Role: Senior Backend Engineer
+Skills: Python, FastAPI, Django, PostgreSQL, Redis, Docker
+5+ years building scalable distributed microservices.

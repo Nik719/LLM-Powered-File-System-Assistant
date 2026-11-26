@@ -1,0 +1,12 @@
+María García
+Frontend Developer
+
+Summary
+Frontend developer with 4 years of experience building accessible interfaces.
+
+Skills
+JavaScript, TypeScript, React, Vue.js, CSS, Figma
+
+Experience
+Frontend Developer, Diseño Digital (2021-present)
+UI Developer, Pixel & Co (2020-2021)
